@@ -104,7 +104,8 @@ This project provides AtliQ Hardware with:
 - Identification of top-performing products & markets  
 - Performance benchmarking against targets  
 - Data-driven strategy for growth & expansion  
-- Interactive dashboards for leadership decisions  
+- Interactive dashboards for leadership decisions
+## Live PowerBI Dashboard - https://app.powerbi.com/view?r=eyJrIjoiY2JjNTVhOTgtZGJhMy00YTMxLTkzM2MtOGRkZmQ3MGM2OWVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ---
 
