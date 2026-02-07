@@ -124,4 +124,4 @@ AtliQ Hardware achieved strong growth driven by high-performing products, expans
 
 ## 🚀 Author
 **Bachu Vikas**  
-Aspiring Data Analyst | SQL | Power BI | Excel | Python  
+Data Analyst | SQL | Power BI | Excel | Python  
